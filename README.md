@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Hii EVREEBUDDY I PING HERRO HERRO
+HERRO EVRYBUDDY I PING
